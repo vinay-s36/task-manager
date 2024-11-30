@@ -1,6 +1,3 @@
-Here's a comprehensive README.md for your Task Manager project:
-
-```markdown
 # Task Manager Laravel Project
 
 ## Project Overview
